@@ -1,4 +1,26 @@
-Aplikasi Pengencek Ganjil Genap yang sederhana yang saya buat dengan bantuan chatGPT untuk mendapatkan koding agar aplikasi yang saya buat bisa berjalan, seperti tugas saya sebelumnya, tampilan GUI aplikasi saya. Saya buat sedemikian rupa, menyerupai muka pada game pixel kotak kotak, yang membuat kemungkinan mirip dengan GUI teman sekelas itu kecil, tampilan saya menjadi ciri khas saya tersendiri. Komponen aplikasi saya terdiri dari jlabel, text field, button, jframe, jpanel. Aplikasi nya juga menghitung bilang prima.
 
-Pembuat
-Muhammad Ramadhan - NPM : 2210010178 - Kelas : 5C reg pagi Banjarmasin
+# Aplikasi Cek Ganjil Genap + Prima
+
+Dengan Aplikasi Ini kita dapat Mencek ganjil genapnya angka kita inputkan.
+
+## Fitur Aplikasi
+
+- Mencek angka ganjil
+- Mencek angka genap
+- Mencek angka prima
+
+
+## Keunggulan Aplikasi
+- Dapat mencek data prima, genap, dan ganjil dengan tepat dan cepat
+
+
+
+## Pembuat
+
+Muhammad Ramadhan - 2210010178 - Kelas 5C reg Pagi Banjarmasin
+
+
+## Demo
+
+![App Screenshot](https://github.com/HaxsUr/Cek-Ganjil-Genap/blob/master/gmbr/bukti.gif)
+
